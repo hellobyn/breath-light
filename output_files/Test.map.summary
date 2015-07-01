@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Fri May 29 09:59:43 2015
+Quartus II 64-Bit Version : 14.1.0 Build 186 12/03/2014 SJ Full Version
+Revision Name : Test
+Top-level Entity Name : Test
+Family : MAX 10
+Total logic elements : 132
+    Total combinational functions : 131
+    Dedicated logic registers : 70
+Total registers : 70
+Total pins : 7
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

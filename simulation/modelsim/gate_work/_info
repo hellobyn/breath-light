@@ -1,0 +1,52 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Desktop\User\TEST\test_Altera\simulation\modelsim
+T_opt
+VM<NAR`;;Qdc6?9MFl^;4d2
+04 12 4 work Test_vlg_tst fast 0
+=1-742f6849d207-555346eb-7f-1490
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L altera_lnsim_ver -L cyclonev_ver -L lpm_ver -L sgate_ver -L cyclonev_hssi_ver -L altera_mf_ver -L cyclonev_pcie_hip_ver -L gate_work -L work +acc
+n@_opt
+OL;O;10.1c;51
+vTest
+IIkjkb66OlX2bHUnCgIFGk1
+V;ScJej]G^X^IioKd<Y<N40
+Z1 dG:\Desktop\User\TEST\test_Altera\simulation\modelsim
+w1431520796
+8Test.vo
+FTest.vo
+L0 32
+Z2 OL;L;10.1c;51
+r1
+31
+Z3 o-vlog01compat -work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@test
+!i10b 1
+!s100 Jj]V2<D^Gd1c@j2hjeOJn2
+!s85 0
+!s108 1431521002.128000
+!s107 Test.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|Test.vo|
+!s92 -vlog01compat -work work +incdir+. -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+vTest_vlg_tst
+IkGN5J1XMgeE30<S1]LMV90
+Vac3cQR7E12JM>^7cn]6^U3
+R1
+w1430379366
+8G:/Desktop/User/TEST/test_Altera/simulation/modelsim/Test.vt
+FG:/Desktop/User/TEST/test_Altera/simulation/modelsim/Test.vt
+L0 29
+R2
+r1
+31
+R3
+n@test_vlg_tst
+!i10b 1
+!s100 7mKO`W:8J]`CM4d^7<B5W1
+!s85 0
+!s108 1431521002.331000
+!s107 G:/Desktop/User/TEST/test_Altera/simulation/modelsim/Test.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/Desktop/User/TEST/test_Altera/simulation/modelsim|G:/Desktop/User/TEST/test_Altera/simulation/modelsim/Test.vt|
+!s92 -vlog01compat -work work +incdir+G:/Desktop/User/TEST/test_Altera/simulation/modelsim -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
